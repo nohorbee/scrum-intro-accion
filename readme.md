@@ -17,6 +17,6 @@ No. La presentación es el índice. Este contenido es un refuerzo. No estaría m
 
 ## ¿Guienso?
 
-![guienso](https://media.giphy.com/media/4Nicamq9EXKbWNRoDM/giphy.gif){ width=50% }
+![guienso](https://media.giphy.com/media/4Nicamq9EXKbWNRoDM/giphy.gif =250x)
 
 Mi nombre es Norberto Herz. Trabajo en Software hace casi 20 años (ATOW) y desde el 2010 utilizo Scrum y otras metodologías ágiles con mis equipos. Tengo una certificación de Scrum Alliance (que no significa mucho, pero quizás es relevante). No soy ninguna autoridad sobre Scrum y Agile, y creo que nadie debería serlo. Las herramientas **nunca** se usan tal cual como salen de su caja. Estoy bastante en contra del fundamentalismo en general, y del purismo de estas prácticas en particular. Pueden saber más de mi en [http://norbertoherz.com](http://norbertoherz.com), y me pueden contactar vía Twitter: [@nohorbee](https://twitter.com/nohorbee).
