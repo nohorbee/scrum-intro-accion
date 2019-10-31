@@ -8,7 +8,7 @@ Los 3 **componentes** principales (o categorías) son:
 - Eventos
 - Activos (artifacts)
 
-Las **interacciones** entre los mismos hacen referencia a la dinámica misma de Scrum. Por ejemplo: El Product Owner (un rol del equipo) interactúa con el Product Backlog (un activo) para ordenarlo, depurarlo y brindar transparencia a todos los interesados.
+Las **interacciones** entre los mismos hacen referencia a la dinámica misma de Scrum. Por ejemplo: Le Product Owner (un rol del equipo) interactúa con el Product Backlog (un activo) para ordenarlo, depurarlo y brindar transparencia a todos los interesados.
 
 ## Equipo y roles
 
@@ -23,7 +23,7 @@ Un equipo Scrum es un grupo de personas trabajando colaborativamente para constr
 ### Roles
 
 Los roles de un equipo Scrum son solo 3:
-- Product Owner: Es el responsable de maximizar el valor del trabajo que se está realizando. Para lograrlo, debe mantener el backlog de producto siempre **ordenado (por prioridad), claro(refinando los requerimientos) y transparente(para otras áreas de la organización)**.
+- Product Owner: Es le responsable de maximizar el valor del trabajo que se está realizando. Para lograrlo, debe mantener el backlog de producto siempre **ordenado (por prioridad), claro(refinando los requerimientos) y transparente(para otras áreas de la organización)**.
 - Development Team: Es el responsable de construir el producto (los incrementos de producto de cada Sprint). Adem;as de autónomo y auto-organizado, se espera que el equipo se considere responsable como tal (y que no haya responsabilidades individuales). Se recomienda que los equipos de desarrollo sean de 3 a 9 personas (menos, se traduce a un gasto innecesario de gestión; más, lo vuelve inmanejable). [Esta regla se le atribuye, muchas veces, al CEO y Co-fundador de Amazon, Jeff Bezos](https://buffer.com/resources/small-teams-why-startups-often-win-against-google-and-facebook-the-science-behind-why-smaller-teams-get-more-done), y si bien puede parecer una prescripción algo rígida, en mi experiencia hasta ahora, la encuentro bastante acertada.
 - Scrum Master: Debe asegurar que el equipo entiende y utiliza correctamente Scrum. Actúa como guía para la organización en cuanto a la teoría, práctica y reglas de la herramienta. Se lo considera un lider facilitador (lo cual es bastante frecuente en Scrum y herramientas ágiles en general).
 
@@ -47,7 +47,7 @@ Es el pulso de Scrum. Es un ciclo de tiempo fijo y definido (por el equipo) en e
 
 - Duración: Fija y definida por el equipo. Se recomienda que sea menor a 1 mes (la norma en la actualidad es de 2 semanas).
 - Cerrada: No se acepta trabajo nuevo durante un Sprint. Esto no debería representar un problema ya que, al ser cortas, ese trabajo se podría realizar en el siguiente Sprint.
-- Cancelación: El Product Owner puede **cancelar** un Sprint si detecta que las tareas comprometidas ya no son relevantes, el objetivo cambia, la empresa realiza algún cambio de estrategia, etcétera). En lo persona, nunca tuve la experiencia de ver un Sprint cancelado.
+- Cancelación: Le Product Owner puede **cancelar** un Sprint si detecta que las tareas comprometidas ya no son relevantes, el objetivo cambia, la empresa realiza algún cambio de estrategia, etcétera). En lo persona, nunca tuve la experiencia de ver un Sprint cancelado.
 - Negociación: Si el equipo subestimó tareas (comprometió de más), se debe renegociar el alcance tan pronto como sea posible. En este sentido, la transparencia es importante para tener un control claro de expectativas. Muchas veces la solución es lograr una versión más rudimentaria de una funcionalidad que de todas formas pueda llegar a producción.
 
 
@@ -55,12 +55,12 @@ Es el pulso de Scrum. Es un ciclo de tiempo fijo y definido (por el equipo) en e
 Ocurre al comienzo del Sprint (es el primer evento). Es una reunión en la cual el equipo selecciona del Product Backlog aquellos requerimientos (Stories) que se van a estar desarrollando durante el Sprint. Al nuevo conjunto se denomina Sprint backlog.
 
 #### Reglas
-- Participantes: El Scrum team completo (el Product Owner tiene mayor protagonismo en la primera parte de la reunión).
+- Participantes: El Scrum team completo (le Product Owner tiene mayor protagonismo en la primera parte de la reunión).
 - Duración: 2 horas por cada semana que dure el Sprint (ej: en un Sprint de 2 semanas, la Sprint planning debería durar menos de 4h).
 - Se debe poner foco en las prioridades más altas.
 
 #### Enfoque
-1. Determinar el "qué": Se evalúa el Product Backlog y se selecciona qué requerimientos se van a estar trabajando. En esta parte de la reunión, el Product Owner tiene mayor protagonismo.
+1. Determinar el "qué": Se evalúa el Product Backlog y se selecciona qué requerimientos se van a estar trabajando. En esta parte de la reunión, le Product Owner tiene mayor protagonismo.
 
   **Entradas**:
   - Incremento de producto (del Sprint anterior)
@@ -72,16 +72,16 @@ Ocurre al comienzo del Sprint (es el primer evento). Es una reunión en la cual 
   - Sprint Backlog: Lista de requerimientos comprometidos.
   - Objetivo del Sprint: Un enunciado que describe el propósito del Sprint (en mi experiencia, no vi muchos equipos que lo desarrollen).
 
-2. Determinar el "cómo": El equipo de desarrollo empieza a trabajar en diseños más detallados. El Product Owner se queda en el lugar por consultas ocasionales. Durante esta etapa:
+2. Determinar el "cómo": El equipo de desarrollo empieza a trabajar en diseños más detallados. Le Product Owner se queda en el lugar por consultas ocasionales. Durante esta etapa:
   - Se dividen los requerimientos en tareas más granulares (1 o 2 días de duración). Esto también resultará en una ventaja para la transparencia e inspección (ver [Burndown Chart](./info-grafica.md))
-  - Durante esta división, suelen descubrirse nuevas tareas, o incluso re-estimarse las ya conocidas. Esto puede llevar al punto de notar (de forma afortunadamente temprana) que se sobre-comprometió trabajo. Es un excelente momento para charlarlo con el Product Owner y refinar el Sprint Backlog.
+  - Durante esta división, suelen descubrirse nuevas tareas, o incluso re-estimarse las ya conocidas. Esto puede llevar al punto de notar (de forma afortunadamente temprana) que se sobre-comprometió trabajo. Es un excelente momento para charlarlo con le Product Owner y refinar el Sprint Backlog.
 
 ### Daily meeting
 Una vez al día, se inspecciona el Sprint plan y se decide si es necesario adaptarlo. Aquí nuevamente aparecen los conceptos principales del control empírico de procesos.
 
 #### Reglas
 
-- Participantes: Development team y Scrum Master (El Scrum Master debe garantizar que suceda, que sólo participe el equipo de desarrollo, y que se honré el *timebox*. Una vez que el equipo puede hacer esto por si solo, el Scrum Master podría no asistir).
+- Participantes: Development team y Scrum Master (Le Scrum Master debe garantizar que suceda, que sólo participe el equipo de desarrollo, y que se honré el *timebox*. Una vez que el equipo puede hacer esto por si solo, le Scrum Master podría no asistir).
 - Duración: 15 minutos (de mucha concentración). Esto solo es posible si el equipo va preparado, con información de calidad (precisa, confiable, oportuna) y si no son demasiadas personas (volviendo al tema del tamaño de un equipo de desarrollo dentro de Scrum).
 
 #### Enfoque
@@ -109,7 +109,7 @@ Una vez al día, se inspecciona el Sprint plan y se decide si es necesario adapt
 Al finalizar el Sprint, el equipo chequea cuál fue el incremento del producto y adapta planes futuros en base a ello. Muchas veces se hace referencia a esta reunión como la "Sprint Demo". Si bien es frecuente (y hasta recomendado) hacer demostraciones durante la Sprint review, esta reunión incluye otros puntos que van por fuera de dicha demostración.
 
 #### Reglas
-- Participantes: Scrum Team + otros interesados (clientes, usuarios, otras áreas de la empresa).
+- Participantes: Scrum Team + otres interesades (clientes, usuaries, otras áreas de la empresa).
 - Duración: 1 hora por cada semana que dure el Sprint (ej: en un Sprint de 2 semanas, la Sprint review debería durar menos de 2h)
 
 #### Enfoque
@@ -140,7 +140,7 @@ Al finalizar el sprint, y luego de haber revisado el resultado del mismo, el equ
 Activos (de una traducción mejorable de *artifacts*) hace referencia a elementos tangibles sobre los cuales el equipo se encuentra trabajando. Son en si, elementos inspeccionables sobre los cuales podemos tomar acciones (adaptaciones).
 
 ### Product Backlog
-Es una lista única y ordenada que contiene todos los requerimientos que se le piden al producto. El Product Backlog es responsabilidad de un único Product Owner (ver rol), aunque es refinado colaborativamente (por el equipo). También es una lista que está en constante evolución en base al *feedback* de los usuarios, ideas de cualquier involucrado con el proyecto/producto, análisis de la competencia, entre otros factores.
+Es una lista única y ordenada que contiene todos los requerimientos que se le piden al producto. El Product Backlog es responsabilidad de une únique Product Owner (ver rol), aunque es refinado colaborativamente (por el equipo). También es una lista que está en constante evolución en base al *feedback* de les usuaries, ideas de cualquier involucrade con el proyecto/producto, análisis de la competencia, entre otros factores.
 
 El Product Backlog es un activo que brinda una gran transparencia al proceso Scrum. En cualquier momento, cualquier interesado debería poder consultarlo y entender cuáles son las siguientes funcionalidades a atacar.
 
@@ -148,16 +148,16 @@ Para construir un Product Backlog, se comienza tomando nota de las necesidades. 
 
 #### ¿Qué significa refinar un requerimiento?
 
-En pocas palabras, un requerimiento refinado es un requerimiento lo suficientemente definido como para que el equipo de desarrollo pueda convertirlo en funcionalidad. Esto requiere un buen nivel de detalle (que preferimos dejar por escrito hasta cierto punto y tener disponibilidad del Product Owner para ampliar más información, como indica uno de los valores de Agile). **En teoría**, para que un requerimiento se considere lo suficiéntemente refinado, debería poder completarse dentro de un Sprint. De no ser así, se supone que el requerimiento es divisible. **En la práctica**, suele ser muy complejo encontrar un buen balance entre requerimientos que puedan completarse en un Sprint y a la vez, la funcionalidad resultante del mismo, aporte valor (sea material de producción). La búsqueda de ese balance podría implicar un esfuerzo mayor que el que debamos dedicarle. **Sugiero que prime el criterio y la decisión del equipo respecto de este tipo de cuestiones**. Existen muchos beneficios (técnicos) de poder llevar funcionalidad a producción en cada Sprint. Un ejemplo, es evitar el *añejamiento* del código lejos de los *branches* principales. Muchos equipos, por ejemplo, deciden enviar funcionalidades inmaduras a producción en modo "invisible" para evitar este inconveniente.
+En pocas palabras, un requerimiento refinado es un requerimiento lo suficientemente definido como para que el equipo de desarrollo pueda convertirlo en funcionalidad. Esto requiere un buen nivel de detalle (que preferimos dejar por escrito hasta cierto punto y tener disponibilidad de le Product Owner para ampliar más información, como indica uno de los valores de Agile). **En teoría**, para que un requerimiento se considere lo suficiéntemente refinado, debería poder completarse dentro de un Sprint. De no ser así, se supone que el requerimiento es divisible. **En la práctica**, suele ser muy complejo encontrar un buen balance entre requerimientos que puedan completarse en un Sprint y a la vez, la funcionalidad resultante del mismo, aporte valor (sea material de producción). La búsqueda de ese balance podría implicar un esfuerzo mayor que el que debamos dedicarle. **Sugiero que prime el criterio y la decisión del equipo respecto de este tipo de cuestiones**. Existen muchos beneficios (técnicos) de poder llevar funcionalidad a producción en cada Sprint. Un ejemplo, es evitar el *añejamiento* del código lejos de los *branches* principales. Muchos equipos, por ejemplo, deciden enviar funcionalidades inmaduras a producción en modo "invisible" para evitar este inconveniente.
 El moment"o en donde un requerimiento está lo suficientemente refinado se lo denomina "Listo para Sprint Planning" (RFSP por sus siglas en inglés).
 
-Si bien tener un backlog ordenado y refinado es responsabilidad del Product Owner, se considera necesario un esfuerzo colectivo de varias personas del equipo de desarrollo. Teniendo en cuenta que en Scrum no hay espacio entre un Sprint y el siguiente, todo este trabajo se realiza dentro del Sprint, por lo que el esfuerzo debe ser considerado al calcular la capacidad del equipo. Se recomienda que la tarea del requerimiento no supere el 10% de la capacidad del equipo.
+Si bien tener un backlog ordenado y refinado es responsabilidad de le Product Owner, se considera necesario un esfuerzo colectivo de varias personas del equipo de desarrollo. Teniendo en cuenta que en Scrum no hay espacio entre un Sprint y el siguiente, todo este trabajo se realiza dentro del Sprint, por lo que el esfuerzo debe ser considerado al calcular la capacidad del equipo. Se recomienda que la tarea del requerimiento no supere el 10% de la capacidad del equipo.
 
 <sup>1</sup> En un mundo ideal, tenemos la capacidad de entender las prioridades de los casos antes de refinarlos. En la práctica, muchas veces nos damos cuenta de que algo es más importante de lo que supusimos al analizarlo más en profundidad. Más aún, existe la posibilidad de que algunos requerimientos prioritarios no estén "listos para el desarrollo". Si ese fuera el caso, y hasta que se refinen lo suficiente, podríamos decidir saltearlos. Si no tengo más requerimientos refinados, no tengo suficiente material para un Sprint.
 
 ### Sprint backlog
 El Sprint backlog es una representación del "qué" y el "cómo" de un Sprint.
-Durante la Sprint planning (evento) el Equipo de desarrollo y el Product Owner definen qué se va a hacer durante el Sprint. Más aún, el Equipo de desarrollo también define cómo se va a hacer y que esfuerzo requiere cada actividad.
+Durante la Sprint planning (evento) el Equipo de desarrollo y le Product Owner definen qué se va a hacer durante el Sprint. Más aún, el Equipo de desarrollo también define cómo se va a hacer y que esfuerzo requiere cada actividad.
 
 El Sprint backlog puede cambiar durante un Sprint. Pero hay que considerar las siguientes restricciones:
 - El equipo de desarrollo (y solo este equipo) actualiza el Sprint backlog regularmente.
