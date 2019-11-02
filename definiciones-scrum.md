@@ -49,6 +49,8 @@ Esta es probablemente la parte más importante detrás del framework. Lo que per
 
 Scrum está organizado en iteraciones cortas que transforman una porción de un backlog (lista de requerimientos) en incrementos del producto (funcionalidades). Se maneja un concepto muy importante al que se hace referencia con las siglas *MVP* que significan **Mínimo producto factible/viable** (del inglés Minimum Viable Product). Un MVP es aquel grupo de funcionalidades (y ninguna otra) que le aportan valor al cliente. Un MVP debería ser puesto en producción tan pronto como sea alcanzado. Toda iteración futura, irá mejorando ese punto inicial (y los incrementos de todas las anteriores). Si todas las iteraciones apuntan a hacer lo que es más prioritario para el cliente (mayor ROI, mayor prioridad, etc), el framework estará garantizando que siempre se entrega el mayor valor posible (aunque el foco del proyecto sea cambiante).
 
+El objetivo de definir un MVP, y luego de tener entregas lo más frecuentemente posible, es el de recolectar feedback de les usuaries constantemente. Este feedback es una de las claves para que nuestros proyectos lleguen al éxito: Poner el ojo en lo que les usuaries valoran más.
+
 ## Corolario
 
 Se dice que Scrum es muy fácil de entender (por lo poco prescriptivo) pero muy difícil de dominar (por la cantidad de herramientas que hay que implementar).
